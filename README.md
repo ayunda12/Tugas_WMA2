@@ -4,7 +4,7 @@ NIM  : E41201809<br/>
 
 <br/>
 <br/>
-1. Tampilan awal <br/>
+1. <b>Tampilan awal</b> <br/>
 <img src="https://user-images.githubusercontent.com/47249108/135788699-b9685516-41c8-46c1-91fc-8cc487c5a88f.jpg" width="260" height="550">
 
 2. Tampilan ketika salah satu item diklik <br/>
@@ -12,6 +12,6 @@ NIM  : E41201809<br/>
 
 
 3. Tampilan keseluruhan layar jika di screenshot memanjang <br/>
-<img src="https://user-images.githubusercontent.com/47249108/135788718-8b8a1775-703f-4dad-bf8c-1d253f4c273e.jpg" width="260" height="550">
+<img src="https://user-images.githubusercontent.com/47249108/135788718-8b8a1775-703f-4dad-bf8c-1d253f4c273e.jpg" width="260" height="600">
 
 
