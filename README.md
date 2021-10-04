@@ -3,7 +3,7 @@ Nama : Ayunda Kusuma Wardani <br/>
 NIM  : E41201809<br/>
 
 <br/>
-<br/>
+
 <b>1. Tampilan awal</b> <br/>
 <img src="https://user-images.githubusercontent.com/47249108/135788699-b9685516-41c8-46c1-91fc-8cc487c5a88f.jpg" width="260" height="550">
 
