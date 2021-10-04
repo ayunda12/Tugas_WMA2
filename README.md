@@ -12,6 +12,6 @@ NIM  : E41201809<br/>
 
 
 <b>3. Tampilan keseluruhan layar jika di screenshot memanjang </b><br/>
-<img src="https://user-images.githubusercontent.com/47249108/135788718-8b8a1775-703f-4dad-bf8c-1d253f4c273e.jpg" width="260" height="700">
+<img src="https://user-images.githubusercontent.com/47249108/135788718-8b8a1775-703f-4dad-bf8c-1d253f4c273e.jpg" width="260" height="800">
 
 
